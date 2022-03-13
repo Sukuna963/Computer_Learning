@@ -13,3 +13,4 @@
 
 # Computer Vision
 * [HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing](https://yuval-alaluf.github.io/hyperstyle/)
+* [CV Zone](https://www.computervision.zone/)
