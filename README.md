@@ -4,6 +4,7 @@
 * [Nvidia Academy](https://www.nvidia.com/en-us/training/online/)
 * [MIT Deep Learning](http://introtodeeplearning.com/)
 * [DeepMind](https://deepmind.com/learning-resources)
+* [Nvidia Documentation](https://docs.nvidia.com/)
 
 ## Tools
 * [NVIDIA Stylegan3](https://nvlabs.github.io/stylegan3/)
