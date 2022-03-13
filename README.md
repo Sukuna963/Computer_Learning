@@ -9,3 +9,8 @@
 
 # Tools
 * [NVIDIA Stylegan3](https://nvlabs.github.io/stylegan3/)
+
+# Artificial Intelligence
+
+## Learning
+* [Google AI Blog](https://ai.googleblog.com/)
