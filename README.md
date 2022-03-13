@@ -7,7 +7,7 @@
 * [MIT Deep Learning](http://introtodeeplearning.com/)
 * [DeepMind](https://deepmind.com/learning-resources)
 
-# Tools
+## Tools
 * [NVIDIA Stylegan3](https://nvlabs.github.io/stylegan3/)
 
 # Artificial Intelligence
