@@ -11,6 +11,7 @@
 
 # Artificial Intelligence
 * [Google AI Blog](https://ai.googleblog.com/)
+* [Omdena School](https://omdena.com/omdena-school/)
 
 # Computer Vision
 * [HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing](https://yuval-alaluf.github.io/hyperstyle/)
